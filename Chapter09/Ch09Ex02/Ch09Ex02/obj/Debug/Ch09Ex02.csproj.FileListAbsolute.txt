@@ -1,0 +1,8 @@
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe.config
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.dll
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.exe
+C:\Users\Yintong\Documents\Test_VS2015\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.pdb

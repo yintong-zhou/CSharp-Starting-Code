@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\bin\Debug\Ch06Ex01 Variable Scope.exe.config
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\obj\Debug\Ch06Ex01 Variable Scope.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\bin\Debug\Ch06Ex01 Variable Scope.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\bin\Debug\Ch06Ex01 Variable Scope.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\obj\Debug\Ch06Ex01 Variable Scope.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch06Ex01 Variable Scope\Ch06Ex01 Variable Scope\obj\Debug\Ch06Ex01 Variable Scope.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\bin\Debug\Ch13Ex09.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\bin\Debug\Ch13Ex09.exe
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\bin\Debug\Ch13Ex09.pdb
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\obj\Debug\Ch13Ex09.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\obj\Debug\Ch13Ex09.exe
+C:\Users\Yintong\Documents\VS2015\C#\Ch13Ex09\Ch13Ex09\obj\Debug\Ch13Ex09.pdb

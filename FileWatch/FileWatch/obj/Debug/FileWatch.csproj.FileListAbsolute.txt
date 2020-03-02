@@ -1,0 +1,28 @@
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.exe
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.pdb
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\MainWindow.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\App.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch_MarkupCompile.cache
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch_MarkupCompile.lref
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\MainWindow.baml
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.g.resources
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.Properties.Resources.resources
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.csproj.GenerateResource.Cache
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.exe
+C:\Users\Yintong\Documents\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.exe.config
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\bin\Debug\FileWatch.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\MainWindow.g.cs
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\App.g.cs
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch_MarkupCompile.cache
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch_MarkupCompile.lref
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\MainWindow.baml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.g.resources
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.Properties.Resources.resources
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\FileWatch\FileWatch\obj\Debug\FileWatch.csproj.GenerateResource.Cache

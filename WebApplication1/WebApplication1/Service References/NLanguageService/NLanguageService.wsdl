@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="AnalyzeSentimentFromText">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="text" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSentimentFromTextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeSentimentFromTextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSentimentFromFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSentimentFromFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeSentimentFromFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeEntitiesFromText">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="text" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeEntitiesFromTextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeEntitiesFromTextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeEntitiesFromFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeEntitiesFromFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeEntitiesFromFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSyntaxFromText">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="text" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSyntaxFromTextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeSyntaxFromTextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSyntaxFromFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnalyzeSyntaxFromFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AnalyzeSyntaxFromFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AnalyzeSentimentFromTextSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeSentimentFromText" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSentimentFromTextSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeSentimentFromTextResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSentimentFromFileSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeSentimentFromFile" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSentimentFromFileSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeSentimentFromFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeEntitiesFromTextSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeEntitiesFromText" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeEntitiesFromTextSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeEntitiesFromTextResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeEntitiesFromFileSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeEntitiesFromFile" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeEntitiesFromFileSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeEntitiesFromFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSyntaxFromTextSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeSyntaxFromText" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSyntaxFromTextSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeSyntaxFromTextResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSyntaxFromFileSoapIn">
+    <wsdl:part name="parameters" element="tns:AnalyzeSyntaxFromFile" />
+  </wsdl:message>
+  <wsdl:message name="AnalyzeSyntaxFromFileSoapOut">
+    <wsdl:part name="parameters" element="tns:AnalyzeSyntaxFromFileResponse" />
+  </wsdl:message>
+  <wsdl:portType name="NLanguageServiceSoap">
+    <wsdl:operation name="AnalyzeSentimentFromText">
+      <wsdl:input message="tns:AnalyzeSentimentFromTextSoapIn" />
+      <wsdl:output message="tns:AnalyzeSentimentFromTextSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSentimentFromFile">
+      <wsdl:input message="tns:AnalyzeSentimentFromFileSoapIn" />
+      <wsdl:output message="tns:AnalyzeSentimentFromFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromText">
+      <wsdl:input message="tns:AnalyzeEntitiesFromTextSoapIn" />
+      <wsdl:output message="tns:AnalyzeEntitiesFromTextSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromFile">
+      <wsdl:input message="tns:AnalyzeEntitiesFromFileSoapIn" />
+      <wsdl:output message="tns:AnalyzeEntitiesFromFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromText">
+      <wsdl:input message="tns:AnalyzeSyntaxFromTextSoapIn" />
+      <wsdl:output message="tns:AnalyzeSyntaxFromTextSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromFile">
+      <wsdl:input message="tns:AnalyzeSyntaxFromFileSoapIn" />
+      <wsdl:output message="tns:AnalyzeSyntaxFromFileSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NLanguageServiceSoap" type="tns:NLanguageServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AnalyzeSentimentFromText">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeSentimentFromText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSentimentFromFile">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeSentimentFromFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromText">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeEntitiesFromText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromFile">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeEntitiesFromFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromText">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeSyntaxFromText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromFile">
+      <soap:operation soapAction="http://tempuri.org/AnalyzeSyntaxFromFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="NLanguageServiceSoap12" type="tns:NLanguageServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AnalyzeSentimentFromText">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeSentimentFromText" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSentimentFromFile">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeSentimentFromFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromText">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeEntitiesFromText" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeEntitiesFromFile">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeEntitiesFromFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromText">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeSyntaxFromText" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnalyzeSyntaxFromFile">
+      <soap12:operation soapAction="http://tempuri.org/AnalyzeSyntaxFromFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="NLanguageService">
+    <wsdl:port name="NLanguageServiceSoap" binding="tns:NLanguageServiceSoap">
+      <soap:address location="http://localhost:55591/NLanguageService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="NLanguageServiceSoap12" binding="tns:NLanguageServiceSoap12">
+      <soap12:address location="http://localhost:55591/NLanguageService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

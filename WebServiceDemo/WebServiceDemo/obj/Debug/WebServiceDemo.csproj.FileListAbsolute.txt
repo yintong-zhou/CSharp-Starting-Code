@@ -1,0 +1,18 @@
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.exe
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.Form1.resources
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.Properties.Resources.resources
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csproj.GenerateResource.Cache
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.exe
+C:\Users\Yintong\Documents\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.exe.config
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\bin\Debug\WebServiceDemo.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.Form1.resources
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.Properties.Resources.resources
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csproj.GenerateResource.Cache

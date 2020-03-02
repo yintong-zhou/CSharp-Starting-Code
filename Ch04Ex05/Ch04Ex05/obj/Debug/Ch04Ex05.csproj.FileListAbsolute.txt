@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\bin\Debug\Ch04Ex05.exe.config
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\bin\Debug\Ch04Ex05.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\bin\Debug\Ch04Ex05.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\obj\Debug\Ch04Ex05.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\obj\Debug\Ch04Ex05.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch04Ex05\Ch04Ex05\obj\Debug\Ch04Ex05.pdb

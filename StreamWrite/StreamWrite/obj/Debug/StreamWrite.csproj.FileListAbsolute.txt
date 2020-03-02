@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.pdb
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.exe
+C:\Users\Yintong\Documents\VS2015\C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.pdb

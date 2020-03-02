@@ -1,0 +1,9 @@
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\bin\Debug\Ch9Ex01.exe.config
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\bin\Debug\Ch9Ex01.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\bin\Debug\Ch9Ex01.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\obj\Debug\Ch9Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\obj\Debug\Ch9Ex01.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch9Ex01\Ch9Ex01\obj\Debug\Ch9Ex01.pdb
+C:\Users\Yintong\Documents\Test_VS2015\Ch09Ex01\Ch9Ex01\bin\Debug\Ch9Ex01.exe.config
+C:\Users\Yintong\Documents\Test_VS2015\Ch09Ex01\Ch9Ex01\obj\Debug\Ch9Ex01.exe
+C:\Users\Yintong\Documents\Test_VS2015\Ch09Ex01\Ch9Ex01\obj\Debug\Ch9Ex01.pdb

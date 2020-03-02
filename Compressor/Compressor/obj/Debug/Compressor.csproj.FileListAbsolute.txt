@@ -1,0 +1,12 @@
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.exe
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.pdb
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.exe
+C:\Users\Yintong\Documents\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.exe.config
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\bin\Debug\Compressor.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\Compressor\Compressor\obj\Debug\Compressor.csprojResolveAssemblyReference.cache

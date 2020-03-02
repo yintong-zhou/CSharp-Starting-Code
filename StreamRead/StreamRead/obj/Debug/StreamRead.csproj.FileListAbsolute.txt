@@ -1,0 +1,5 @@
+C:\Users\Yintong\Documents\VS2015\C#\StreamRead\StreamRead\bin\Debug\StreamRead.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\StreamRead\StreamRead\bin\Debug\StreamRead.exe
+C:\Users\Yintong\Documents\VS2015\C#\StreamRead\StreamRead\bin\Debug\StreamRead.pdb
+C:\Users\Yintong\Documents\VS2015\C#\StreamRead\StreamRead\obj\Debug\StreamRead.exe
+C:\Users\Yintong\Documents\VS2015\C#\StreamRead\StreamRead\obj\Debug\StreamRead.pdb

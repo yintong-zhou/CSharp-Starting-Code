@@ -1,0 +1,11 @@
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\bin\Debug\httpRequest.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.Form1.resources
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.Properties.Resources.resources
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.csproj.GenerateResource.Cache
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\bin\Debug\httpRequest.exe
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\bin\Debug\httpRequest.pdb
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.exe
+C:\Users\Yintong\Documents\VS2015\C#\httpRequest\httpRequest\obj\Debug\httpRequest.pdb

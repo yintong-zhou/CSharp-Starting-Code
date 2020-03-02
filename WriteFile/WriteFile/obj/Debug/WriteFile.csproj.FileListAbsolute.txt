@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\bin\Debug\WriteFile.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\obj\Debug\WriteFile.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\obj\Debug\WriteFile.exe
+C:\Users\Yintong\Documents\VS2015\C#\WriteFile\WriteFile\obj\Debug\WriteFile.pdb

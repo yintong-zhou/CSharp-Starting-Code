@@ -1,0 +1,6 @@
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\obj\Debug\ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+C:\Users\Yintong\Documents\VS2015\C#\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

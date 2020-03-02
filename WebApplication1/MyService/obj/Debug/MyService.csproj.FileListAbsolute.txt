@@ -1,0 +1,125 @@
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\grpc_csharp_ext.x86.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\grpc_csharp_ext.x64.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\csc.exe
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\vbc.exe
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\MyService.dll.config
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\MyService.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\MyService.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.CommonProtos.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Core.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.PlatformServices.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Storage.v1.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Protobuf.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Grpc.Auth.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Grpc.Core.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Newtonsoft.Json.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\System.Interactive.Async.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.CommonProtos.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Core.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Storage.v1.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Google.Protobuf.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Grpc.Auth.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Grpc.Core.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\Newtonsoft.Json.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\bin\System.Interactive.Async.xml
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\obj\Debug\MyService.dll
+C:\Users\Yintong\Documents\VS2015\C#\WebApplication1\MyService\obj\Debug\MyService.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\grpc_csharp_ext.x86.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\grpc_csharp_ext.x64.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\csc.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\vbc.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\MyService.dll.config
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\MyService.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\MyService.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.CommonProtos.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Core.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.PlatformServices.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Storage.v1.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Protobuf.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Grpc.Auth.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Grpc.Core.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Newtonsoft.Json.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\System.Interactive.Async.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.CommonProtos.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Api.Gax.Rest.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Auth.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Core.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Apis.Storage.v1.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Language.V1.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Cloud.Storage.V1.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Google.Protobuf.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Grpc.Auth.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Grpc.Core.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\Newtonsoft.Json.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\bin\System.Interactive.Async.xml
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\obj\Debug\MyService.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\obj\Debug\MyService.dll
+C:\Users\Yintong\Documents\Altri Sviluppi\VS2015\C#\WebApplication1\MyService\obj\Debug\MyService.pdb

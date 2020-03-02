@@ -1,0 +1,18 @@
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.exe.config
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.exe
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.pdb
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.csprojResolveAssemblyReference.cache
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\About.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\MainWindow.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\App.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui_MarkupCompile.cache
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui_MarkupCompile.lref
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\About.baml
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\MainWindow.baml
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.g.resources
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards_Gui.Properties.Resources.resources
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.csproj.GenerateResource.Cache
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.exe
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.pdb
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\Options.g.cs
+C:\Users\Yintong\Documents\VS2015\C#\KarliCards Gui\KarliCards Gui\obj\Debug\Options.baml
